@@ -1,0 +1,7 @@
+pillow
+qrcode
+ttkthemes
+PyPDF2
+pandas
+matplotlib
+tkcalendar
